@@ -1,0 +1,5169 @@
+{
+ "meta": {
+  "version": 20261124,
+  "source": "CelesTrak GEO yörünge verisi + elle doğrulanmış kayıtlar",
+  "date": "2026-11-24"
+ },
+ "satellites": [
+  {
+   "id": "norad-38978",
+   "name": "YAMAL 300K",
+   "operator": null,
+   "position": -177.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:53:19.822272"
+  },
+  {
+   "id": "norad-33749",
+   "name": "NSS-9",
+   "operator": null,
+   "position": -176.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:52:17.448096"
+  },
+  {
+   "id": "norad-39070",
+   "name": "TDRS 11",
+   "operator": null,
+   "position": -174.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:53:02.376096"
+  },
+  {
+   "id": "norad-21639",
+   "name": "TDRS 5",
+   "operator": null,
+   "position": -166.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:54:54.696096"
+  },
+  {
+   "id": "norad-43162",
+   "name": "SBIRS GEO-3 (USA 282)",
+   "operator": null,
+   "position": -159.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:57:16.970112"
+  },
+  {
+   "id": "norad-27954",
+   "name": "GALAXY 13 (HORIZONS-1)",
+   "operator": null,
+   "position": -150.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:28:48.556128"
+  },
+  {
+   "id": "norad-26715",
+   "name": "USA 157 (MILSTAR-2 2)",
+   "operator": null,
+   "position": -149.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:59:54.218112"
+  },
+  {
+   "id": "norad-52933",
+   "name": "SES-22",
+   "operator": null,
+   "position": -139.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:27:08.721792"
+  },
+  {
+   "id": "norad-27438",
+   "name": "INTELSAT 905 (IS-905)",
+   "operator": null,
+   "position": -137.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:50:37.514112"
+  },
+  {
+   "id": "norad-51850",
+   "name": "GOES 18",
+   "operator": null,
+   "position": -137.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:21:58.487040"
+  },
+  {
+   "id": "norad-39222",
+   "name": "WGS F6 (USA 244)",
+   "operator": null,
+   "position": -135.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:37:42.168288"
+  },
+  {
+   "id": "norad-26580",
+   "name": "AMC-6",
+   "operator": null,
+   "position": -135.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:52:53.078304"
+  },
+  {
+   "id": "norad-55971",
+   "name": "SES-19",
+   "operator": null,
+   "position": -134.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:52:51.460896"
+  },
+  {
+   "id": "norad-54026",
+   "name": "GALAXY 33 (G-33)",
+   "operator": null,
+   "position": -133.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:52:49.846080"
+  },
+  {
+   "id": "norad-53961",
+   "name": "SES-21",
+   "operator": null,
+   "position": -131.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:26:33.203904"
+  },
+  {
+   "id": "norad-42709",
+   "name": "SES-15",
+   "operator": null,
+   "position": -129.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:27:32.430240"
+  },
+  {
+   "id": "norad-54027",
+   "name": "GALAXY 34 (G-34)",
+   "operator": null,
+   "position": -129.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:27:32.425056"
+  },
+  {
+   "id": "norad-57493",
+   "name": "GALAXY 37 (G-37)",
+   "operator": null,
+   "position": -127.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:41:16.516320"
+  },
+  {
+   "id": "norad-46114",
+   "name": "GALAXY 30 (G-30)",
+   "operator": null,
+   "position": -125.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:41:16.516320"
+  },
+  {
+   "id": "norad-39256",
+   "name": "AEHF-3 (USA 246)",
+   "operator": null,
+   "position": -123.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:29:26.706048"
+  },
+  {
+   "id": "norad-32951",
+   "name": "GALAXY 18 (G-18)",
+   "operator": null,
+   "position": -123.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:26:21.538752"
+  },
+  {
+   "id": "norad-36108",
+   "name": "WGS F3 (USA 211)",
+   "operator": null,
+   "position": -122.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:26:21.538752"
+  },
+  {
+   "id": "norad-27691",
+   "name": "USA 167",
+   "operator": null,
+   "position": -121.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T10:08:13.461792"
+  },
+  {
+   "id": "norad-54243",
+   "name": "GALAXY 31 (G-31)",
+   "operator": null,
+   "position": -121.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:29:26.706048"
+  },
+  {
+   "id": "norad-28659",
+   "name": "DIRECTV 8",
+   "operator": null,
+   "position": -119.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:29:26.706048"
+  },
+  {
+   "id": "norad-36499",
+   "name": "ECHOSTAR 14",
+   "operator": null,
+   "position": -118.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:26:21.538752"
+  },
+  {
+   "id": "norad-36792",
+   "name": "ECHOSTAR 15",
+   "operator": null,
+   "position": -118.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:29:26.706048"
+  },
+  {
+   "id": "norad-31102",
+   "name": "ANIK F3",
+   "operator": null,
+   "position": -118.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:29:26.706048"
+  },
+  {
+   "id": "norad-41589",
+   "name": "EUTELSAT 117 WEST B",
+   "operator": null,
+   "position": -117.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:29:11.881248"
+  },
+  {
+   "id": "norad-39122",
+   "name": "EUTELSAT 117 WEST A",
+   "operator": null,
+   "position": -116.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:29:16.311840"
+  },
+  {
+   "id": "norad-64290",
+   "name": "SXM-10",
+   "operator": null,
+   "position": -116.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:35:26.298816"
+  },
+  {
+   "id": "norad-37185",
+   "name": "XM-5",
+   "operator": null,
+   "position": -115.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:41:03.172128"
+  },
+  {
+   "id": "norad-37843",
+   "name": "VIASAT-1",
+   "operator": null,
+   "position": -115.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:41:03.172128"
+  },
+  {
+   "id": "norad-40425",
+   "name": "EUTELSAT 115 WEST B",
+   "operator": null,
+   "position": -114.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:56:04.176096"
+  },
+  {
+   "id": "norad-39035",
+   "name": "MEXSAT 3",
+   "operator": null,
+   "position": -114.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:41:03.172128"
+  },
+  {
+   "id": "norad-40946",
+   "name": "MORELOS 3",
+   "operator": null,
+   "position": -113.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:37:32.164320"
+  },
+  {
+   "id": "norad-49817",
+   "name": "STPSAT-6",
+   "operator": null,
+   "position": -111.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:40:23.909952"
+  },
+  {
+   "id": "norad-25019",
+   "name": "USA 134",
+   "operator": null,
+   "position": -111.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:13:02.016768"
+  },
+  {
+   "id": "norad-28378",
+   "name": "ANIK F2",
+   "operator": null,
+   "position": -111.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:40:23.909952"
+  },
+  {
+   "id": "norad-35496",
+   "name": "TERRESTAR-1",
+   "operator": null,
+   "position": -110.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T07:35:12.159744"
+  },
+  {
+   "id": "norad-27426",
+   "name": "DIRECTV 5 (TEMPO 1)",
+   "operator": null,
+   "position": -110.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:40:23.909952"
+  },
+  {
+   "id": "norad-68126",
+   "name": "ECHOSTAR 25",
+   "operator": null,
+   "position": -110.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T03:20:03.431040"
+  },
+  {
+   "id": "norad-42070",
+   "name": "ECHOSTAR 23",
+   "operator": null,
+   "position": -109.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:42:46.884960"
+  },
+  {
+   "id": "norad-33207",
+   "name": "ECHOSTAR 11",
+   "operator": null,
+   "position": -109.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:42:46.884960"
+  },
+  {
+   "id": "norad-27632",
+   "name": "NIMIQ 2",
+   "operator": null,
+   "position": -108.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:40:23.909952"
+  },
+  {
+   "id": "norad-39127",
+   "name": "ANIK G1",
+   "operator": null,
+   "position": -107.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:54:12.900960"
+  },
+  {
+   "id": "norad-28868",
+   "name": "ANIK F1R",
+   "operator": null,
+   "position": -107.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:42:46.884960"
+  },
+  {
+   "id": "norad-38551",
+   "name": "ECHOSTAR 17",
+   "operator": null,
+   "position": -107.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:54:12.913056"
+  },
+  {
+   "id": "norad-28446",
+   "name": "AMC-15",
+   "operator": null,
+   "position": -105.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:56.834400"
+  },
+  {
+   "id": "norad-42967",
+   "name": "SES-11 (ECHOSTAR 105)",
+   "operator": null,
+   "position": -104.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:56.834400"
+  },
+  {
+   "id": "norad-41866",
+   "name": "GOES 16",
+   "operator": null,
+   "position": -104.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:51.970080"
+  },
+  {
+   "id": "norad-41622",
+   "name": "MUOS-5",
+   "operator": null,
+   "position": -103.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:56.834400"
+  },
+  {
+   "id": "norad-55970",
+   "name": "SES-18",
+   "operator": null,
+   "position": -103.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:56.834400"
+  },
+  {
+   "id": "norad-53960",
+   "name": "SES-20",
+   "operator": null,
+   "position": -103.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:56.834400"
+  },
+  {
+   "id": "norad-37748",
+   "name": "SES-3",
+   "operator": null,
+   "position": -103.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:42:06.721920"
+  },
+  {
+   "id": "norad-40663",
+   "name": "DIRECTV 15",
+   "operator": null,
+   "position": -102.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:55.617024"
+  },
+  {
+   "id": "norad-36131",
+   "name": "DIRECTV 12",
+   "operator": null,
+   "position": -102.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:53:07.884096"
+  },
+  {
+   "id": "norad-37218",
+   "name": "SKYTERRA 1",
+   "operator": null,
+   "position": -101.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:57:09.423360"
+  },
+  {
+   "id": "norad-36516",
+   "name": "SES-1",
+   "operator": null,
+   "position": -101.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:56.834400"
+  },
+  {
+   "id": "norad-44333",
+   "name": "AT&T T-16",
+   "operator": null,
+   "position": -100.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:16:56.834400"
+  },
+  {
+   "id": "norad-38093",
+   "name": "MUOS-1",
+   "operator": null,
+   "position": -100.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:57:03.591360"
+  },
+  {
+   "id": "norad-49115",
+   "name": "TJS-7",
+   "operator": null,
+   "position": -99.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:39:37.663200"
+  },
+  {
+   "id": "norad-32729",
+   "name": "DIRECTV 11",
+   "operator": null,
+   "position": -99.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:55:59.391840"
+  },
+  {
+   "id": "norad-40333",
+   "name": "DIRECTV 14",
+   "operator": null,
+   "position": -99.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:55:08.819040"
+  },
+  {
+   "id": "norad-29236",
+   "name": "GALAXY 16 (G-16)",
+   "operator": null,
+   "position": -99.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:57:09.423360"
+  },
+  {
+   "id": "norad-33278",
+   "name": "INMARSAT 4-F3",
+   "operator": null,
+   "position": -97.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:55:40.336896"
+  },
+  {
+   "id": "norad-41893",
+   "name": "ECHOSTAR 19",
+   "operator": null,
+   "position": -97.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:57:21.407040"
+  },
+  {
+   "id": "norad-33376",
+   "name": "GALAXY 19 (G-19)",
+   "operator": null,
+   "position": -97.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:57:21.444192"
+  },
+  {
+   "id": "norad-39120",
+   "name": "SBIRS GEO-2 (USA 241)",
+   "operator": null,
+   "position": -96.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:49:49.925280"
+  },
+  {
+   "id": "norad-57479",
+   "name": "JUPITER 3 (ECHOSTAR 24)",
+   "operator": null,
+   "position": -95.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T02:12:29.868768"
+  },
+  {
+   "id": "norad-40271",
+   "name": "INTELSAT 30 (IS-30)",
+   "operator": null,
+   "position": -95.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T23:26:40.900128"
+  },
+  {
+   "id": "norad-41581",
+   "name": "INTELSAT 31 (IS-31)",
+   "operator": null,
+   "position": -95.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:01:44.884416"
+  },
+  {
+   "id": "norad-27445",
+   "name": "GALAXY 3C (G-3C)",
+   "operator": null,
+   "position": -94.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:43:11.619840"
+  },
+  {
+   "id": "norad-54741",
+   "name": "GALAXY 35 (G-35)",
+   "operator": null,
+   "position": -93.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:08:14.654112"
+  },
+  {
+   "id": "norad-32763",
+   "name": "ICO G1",
+   "operator": null,
+   "position": -92.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:59:30.050304"
+  },
+  {
+   "id": "norad-38342",
+   "name": "NIMIQ 6",
+   "operator": null,
+   "position": -91.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:05:28.294944"
+  },
+  {
+   "id": "norad-54244",
+   "name": "GALAXY 32 (G-32)",
+   "operator": null,
+   "position": -91.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:05:28.294944"
+  },
+  {
+   "id": "norad-56174",
+   "name": "INTELSAT 40E (IS-40E)",
+   "operator": null,
+   "position": -91.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:05:28.294944"
+  },
+  {
+   "id": "norad-23712",
+   "name": "USA 115 (MILSTAR-1 2)",
+   "operator": null,
+   "position": -90.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:51:27.268704"
+  },
+  {
+   "id": "norad-43226",
+   "name": "GOES 17",
+   "operator": null,
+   "position": -89.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:09:14.560416"
+  },
+  {
+   "id": "norad-54742",
+   "name": "GALAXY 36 (G-36)",
+   "operator": null,
+   "position": -89.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:09:29.536128"
+  },
+  {
+   "id": "norad-56370",
+   "name": "VIASAT-3 F1",
+   "operator": null,
+   "position": -88.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:06:12.115296"
+  },
+  {
+   "id": "norad-39481",
+   "name": "TKSAT-1 (TUPAC KATARI)",
+   "operator": null,
+   "position": -87.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:09:59.488416"
+  },
+  {
+   "id": "norad-37809",
+   "name": "SES-2",
+   "operator": null,
+   "position": -87.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:09:59.488416"
+  },
+  {
+   "id": "norad-35493",
+   "name": "FM-5",
+   "operator": null,
+   "position": -86.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T07:37:33.123072"
+  },
+  {
+   "id": "norad-47240",
+   "name": "SXM-7",
+   "operator": null,
+   "position": -85.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:10:29.438976"
+  },
+  {
+   "id": "norad-48838",
+   "name": "SXM-8",
+   "operator": null,
+   "position": -85.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:09:24.223104"
+  },
+  {
+   "id": "norad-62259",
+   "name": "SXM-9",
+   "operator": null,
+   "position": -85.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:09:24.223104"
+  },
+  {
+   "id": "norad-31307",
+   "name": "GALAXY 17 (G-17)",
+   "operator": null,
+   "position": -84.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:03:18.897984"
+  },
+  {
+   "id": "norad-41904",
+   "name": "STAR ONE D1",
+   "operator": null,
+   "position": -84.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:18:34.420032"
+  },
+  {
+   "id": "norad-62455",
+   "name": "NUVIEW ALPHA",
+   "operator": null,
+   "position": -83.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:03:56.640960"
+  },
+  {
+   "id": "norad-62457",
+   "name": "NUVIEW BRAVO",
+   "operator": null,
+   "position": -83.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:03:57.674304"
+  },
+  {
+   "id": "norad-33373",
+   "name": "NIMIQ 4",
+   "operator": null,
+   "position": -82.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:19:04.373184"
+  },
+  {
+   "id": "norad-40941",
+   "name": "ARSAT 2",
+   "operator": null,
+   "position": -81.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:19:26.837184"
+  },
+  {
+   "id": "norad-66454",
+   "name": "VIASAT-3 F2",
+   "operator": null,
+   "position": -79.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:04:19.475040"
+  },
+  {
+   "id": "norad-40664",
+   "name": "SKY MEXICO-1",
+   "operator": null,
+   "position": -78.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:27:50.198400"
+  },
+  {
+   "id": "norad-61503",
+   "name": "HULIANWAN GAOGUI-03 (HG-03)",
+   "operator": null,
+   "position": -77.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T00:40:06.233952"
+  },
+  {
+   "id": "norad-37826",
+   "name": "QUETZSAT 1",
+   "operator": null,
+   "position": -77.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:04:19.475040"
+  },
+  {
+   "id": "norad-60133",
+   "name": "GOES 19",
+   "operator": null,
+   "position": -75.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:04:19.475040"
+  },
+  {
+   "id": "norad-38991",
+   "name": "STAR ONE C3",
+   "operator": null,
+   "position": -75.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:04:19.475040"
+  },
+  {
+   "id": "norad-42692",
+   "name": "SGDC",
+   "operator": null,
+   "position": -74.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T00:51:13.875264"
+  },
+  {
+   "id": "norad-39616",
+   "name": "AMAZONAS 4A",
+   "operator": null,
+   "position": -74.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:21:26.646336"
+  },
+  {
+   "id": "norad-32388",
+   "name": "HORIZONS-2",
+   "operator": null,
+   "position": -73.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:21:41.622048"
+  },
+  {
+   "id": "norad-35873",
+   "name": "NIMIQ 5",
+   "operator": null,
+   "position": -72.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T06:01:41.267712"
+  },
+  {
+   "id": "norad-35942",
+   "name": "AMAZONAS 2",
+   "operator": null,
+   "position": -71.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:22:11.574336"
+  },
+  {
+   "id": "norad-40272",
+   "name": "ARSAT 1",
+   "operator": null,
+   "position": -71.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:22:04.086048"
+  },
+  {
+   "id": "norad-40733",
+   "name": "STAR ONE C4",
+   "operator": null,
+   "position": -70.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:22:34.038336"
+  },
+  {
+   "id": "norad-49055",
+   "name": "STAR ONE D2",
+   "operator": null,
+   "position": -70.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:22:34.038336"
+  },
+  {
+   "id": "norad-42740",
+   "name": "VIASAT-2",
+   "operator": null,
+   "position": -69.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:22:34.038336"
+  },
+  {
+   "id": "norad-43651",
+   "name": "AEHF-4 (USA 288)",
+   "operator": null,
+   "position": -67.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:23:11.478048"
+  },
+  {
+   "id": "norad-49332",
+   "name": "SES-17",
+   "operator": null,
+   "position": -67.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:23:33.942048"
+  },
+  {
+   "id": "norad-42432",
+   "name": "SES-10",
+   "operator": null,
+   "position": -66.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:15:43.936704"
+  },
+  {
+   "id": "norad-41382",
+   "name": "EUTELSAT 65 WEST A",
+   "operator": null,
+   "position": -65.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:24:03.895200"
+  },
+  {
+   "id": "norad-32768",
+   "name": "STAR ONE C2",
+   "operator": null,
+   "position": -65.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:24:03.895200"
+  },
+  {
+   "id": "norad-43562",
+   "name": "TELSTAR 19V",
+   "operator": null,
+   "position": -63.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:15:06.501888"
+  },
+  {
+   "id": "norad-39008",
+   "name": "ECHOSTAR 16",
+   "operator": null,
+   "position": -61.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:15:58.099968"
+  },
+  {
+   "id": "norad-41592",
+   "name": "ECHOSTAR 18",
+   "operator": null,
+   "position": -61.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T03:37:44.471424"
+  },
+  {
+   "id": "norad-39078",
+   "name": "AMAZONAS 3",
+   "operator": null,
+   "position": -61.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:25:18.773760"
+  },
+  {
+   "id": "norad-42934",
+   "name": "AMAZONAS 5",
+   "operator": null,
+   "position": -61.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T03:38:30.888096"
+  },
+  {
+   "id": "norad-55508",
+   "name": "AMAZONAS NEXUS",
+   "operator": null,
+   "position": -61.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:19:20.721792"
+  },
+  {
+   "id": "norad-38749",
+   "name": "INTELSAT 21 (IS-21)",
+   "operator": null,
+   "position": -58.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:26:11.190912"
+  },
+  {
+   "id": "norad-40874",
+   "name": "INTELSAT 34 (IS-34)",
+   "operator": null,
+   "position": -55.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:26:48.632352"
+  },
+  {
+   "id": "norad-40384",
+   "name": "INMARSAT 5-F2",
+   "operator": null,
+   "position": -55.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:27:03.608064"
+  },
+  {
+   "id": "norad-25153",
+   "name": "INMARSAT 3-F5",
+   "operator": null,
+   "position": -53.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:08:01.222944"
+  },
+  {
+   "id": "norad-38867",
+   "name": "INTELSAT 23 (IS-23)",
+   "operator": null,
+   "position": -53.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:34:38.038368"
+  },
+  {
+   "id": "norad-39168",
+   "name": "WGS F5 (USA 243)",
+   "operator": null,
+   "position": -52.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T09:54:33.206112"
+  },
+  {
+   "id": "norad-33459",
+   "name": "EUTELSAT HOTBIRD 13C",
+   "operator": null,
+   "position": -50.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T09:55:10.645824"
+  },
+  {
+   "id": "norad-26900",
+   "name": "INTELSAT 902 (IS-902)",
+   "operator": null,
+   "position": -50.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:45:11.436768"
+  },
+  {
+   "id": "norad-19548",
+   "name": "TDRS 3",
+   "operator": null,
+   "position": -48.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T09:55:33.109824"
+  },
+  {
+   "id": "norad-43175",
+   "name": "SES-14",
+   "operator": null,
+   "position": -47.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:58:17.236128"
+  },
+  {
+   "id": "norad-22314",
+   "name": "TDRS 6",
+   "operator": null,
+   "position": -46.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:14:21.465024"
+  },
+  {
+   "id": "norad-36097",
+   "name": "INTELSAT 14 (IS-14)",
+   "operator": null,
+   "position": -45.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:05:07.135872"
+  },
+  {
+   "id": "norad-41945",
+   "name": "INTELSAT 32E (IS-32E)",
+   "operator": null,
+   "position": -43.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:17:23.734752"
+  },
+  {
+   "id": "norad-32258",
+   "name": "WGS F1 (USA 195)",
+   "operator": null,
+   "position": -42.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T09:57:25.432416"
+  },
+  {
+   "id": "norad-39504",
+   "name": "TDRS 12",
+   "operator": null,
+   "position": -41.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:01:51.786336"
+  },
+  {
+   "id": "norad-39172",
+   "name": "SES-6",
+   "operator": null,
+   "position": -40.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:31:10.712064"
+  },
+  {
+   "id": "norad-34111",
+   "name": "TELSTAR 11N",
+   "operator": null,
+   "position": -37.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:31:55.640928"
+  },
+  {
+   "id": "norad-28526",
+   "name": "NSS-10",
+   "operator": null,
+   "position": -37.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:31:34.633920"
+  },
+  {
+   "id": "norad-41942",
+   "name": "HISPASAT 36W-1",
+   "operator": null,
+   "position": -36.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:06:55.787040"
+  },
+  {
+   "id": "norad-42818",
+   "name": "INTELSAT 35E (IS-35E)",
+   "operator": null,
+   "position": -34.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:39:16.034112"
+  },
+  {
+   "id": "norad-43272",
+   "name": "HYLAS 4",
+   "operator": null,
+   "position": -33.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:33:03.032928"
+  },
+  {
+   "id": "norad-37392",
+   "name": "INTELSAT 28 (IS-28)",
+   "operator": null,
+   "position": -31.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:47:58.233120"
+  },
+  {
+   "id": "norad-27380",
+   "name": "INTELSAT 904 (IS-904)",
+   "operator": null,
+   "position": -31.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:57:36.033120"
+  },
+  {
+   "id": "norad-28945",
+   "name": "SPAINSAT",
+   "operator": null,
+   "position": -30.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T21:52:57.190656"
+  },
+  {
+   "id": "norad-37264",
+   "name": "HISPASAT 30W-5",
+   "operator": null,
+   "position": -30.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:34:10.424928"
+  },
+  {
+   "id": "norad-43228",
+   "name": "HISPASAT 30W-6",
+   "operator": null,
+   "position": -30.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:34:10.424928"
+  },
+  {
+   "id": "norad-28702",
+   "name": "GALAXY 28 (G-28)",
+   "operator": null,
+   "position": -27.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:34:55.353792"
+  },
+  {
+   "id": "norad-43039",
+   "name": "ALCOMSAT 1",
+   "operator": null,
+   "position": -24.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:50:27.428928"
+  },
+  {
+   "id": "norad-31306",
+   "name": "ASTRA 1L",
+   "operator": null,
+   "position": -24.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:35:40.281792"
+  },
+  {
+   "id": "norad-25967",
+   "name": "UFO 10 (USA 146)",
+   "operator": null,
+   "position": -23.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T10:21:58.845312"
+  },
+  {
+   "id": "norad-38087",
+   "name": "SES-4",
+   "operator": null,
+   "position": -22.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:36:25.209792"
+  },
+  {
+   "id": "norad-41937",
+   "name": "SBIRS GEO-4 (USA 273)",
+   "operator": null,
+   "position": -21.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:36:40.187232"
+  },
+  {
+   "id": "norad-43174",
+   "name": "AL YAH 3",
+   "operator": null,
+   "position": -20.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:36:55.162080"
+  },
+  {
+   "id": "norad-42950",
+   "name": "INTELSAT 37E (IS-37E)",
+   "operator": null,
+   "position": -18.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:37:32.604384"
+  },
+  {
+   "id": "norad-33055",
+   "name": "SKYNET 5C",
+   "operator": null,
+   "position": -17.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:55:00.435360"
+  },
+  {
+   "id": "norad-38977",
+   "name": "LUCH-5B",
+   "operator": null,
+   "position": -16.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:57:40.468608"
+  },
+  {
+   "id": "norad-38254",
+   "name": "AEHF-2 (USA 235)",
+   "operator": null,
+   "position": -16.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T01:31:45.342336"
+  },
+  {
+   "id": "norad-40374",
+   "name": "MUOS-3",
+   "operator": null,
+   "position": -16.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T10:05:09.689856"
+  },
+  {
+   "id": "norad-41036",
+   "name": "TELSTAR 12V",
+   "operator": null,
+   "position": -15.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:38:25.018944"
+  },
+  {
+   "id": "norad-41105",
+   "name": "ELEKTRO-L 2",
+   "operator": null,
+   "position": -14.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:58:58.736640"
+  },
+  {
+   "id": "norad-44903",
+   "name": "ELEKTRO-L 3",
+   "operator": null,
+   "position": -14.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:38:32.508096"
+  },
+  {
+   "id": "norad-40895",
+   "name": "EXPRESS-AM8",
+   "operator": null,
+   "position": -14.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T10:05:32.154720"
+  },
+  {
+   "id": "norad-42075",
+   "name": "WGS F9 (USA 275)",
+   "operator": null,
+   "position": -12.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:28:38.909568"
+  },
+  {
+   "id": "norad-42915",
+   "name": "TDRS 13",
+   "operator": null,
+   "position": -11.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:39:24.924384"
+  },
+  {
+   "id": "norad-33595",
+   "name": "EXPRESS-AM44",
+   "operator": null,
+   "position": -11.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:01:35.594976"
+  },
+  {
+   "id": "norad-27811",
+   "name": "HELLAS-SAT 2",
+   "operator": null,
+   "position": -10.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T05:41:52.771776"
+  },
+  {
+   "id": "norad-40875",
+   "name": "EUTELSAT 8 WEST B",
+   "operator": null,
+   "position": -8.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:40:24.828096"
+  },
+  {
+   "id": "norad-37816",
+   "name": "EUTELSAT 7 WEST A",
+   "operator": null,
+   "position": -7.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:40:39.803808"
+  },
+  {
+   "id": "norad-36830",
+   "name": "NILESAT 201",
+   "operator": null,
+   "position": -7.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:40:39.803808"
+  },
+  {
+   "id": "norad-52817",
+   "name": "NILESAT 301",
+   "operator": null,
+   "position": -7.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:15:24.975072"
+  },
+  {
+   "id": "norad-57214",
+   "name": "SYRACUSE 4B",
+   "operator": null,
+   "position": -6.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T20:18:34.265952"
+  },
+  {
+   "id": "norad-44624",
+   "name": "EUTELSAT 5 WEST B",
+   "operator": null,
+   "position": -5.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:41:17.245248"
+  },
+  {
+   "id": "norad-64784",
+   "name": "DROR 1",
+   "operator": null,
+   "position": -4.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:41:32.220096"
+  },
+  {
+   "id": "norad-40424",
+   "name": "ABS-3A",
+   "operator": null,
+   "position": -3.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:41:47.195808"
+  },
+  {
+   "id": "norad-28358",
+   "name": "INTELSAT 10-02",
+   "operator": null,
+   "position": -1.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:59:44.979936"
+  },
+  {
+   "id": "norad-46113",
+   "name": "MEV-2",
+   "operator": null,
+   "position": -1.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:59:44.979936"
+  },
+  {
+   "id": "norad-36033",
+   "name": "THOR 6",
+   "operator": null,
+   "position": -0.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T08:26:41.620704"
+  },
+  {
+   "id": "norad-32487",
+   "name": "THOR 5",
+   "operator": null,
+   "position": -0.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:42:24.637248"
+  },
+  {
+   "id": "norad-40613",
+   "name": "THOR 7",
+   "operator": null,
+   "position": -0.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T03:18:50.086080"
+  },
+  {
+   "id": "norad-54743",
+   "name": "METEOSAT-12 (MTG-I1)",
+   "operator": null,
+   "position": -0.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:42:32.123808"
+  },
+  {
+   "id": "norad-64723",
+   "name": "MTG-S1",
+   "operator": null,
+   "position": -0.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:42:39.612096"
+  },
+  {
+   "id": "norad-38552",
+   "name": "METEOSAT-10 (MSG-3)",
+   "operator": null,
+   "position": 0.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T01:36:29.887776"
+  },
+  {
+   "id": "norad-57213",
+   "name": "H2SAT (HEINRICH HERTZ)",
+   "operator": null,
+   "position": 0.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T19:49:58.061280"
+  },
+  {
+   "id": "norad-42801",
+   "name": "BULGARIASAT-1",
+   "operator": null,
+   "position": 1.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:35:12.074208"
+  },
+  {
+   "id": "norad-53765",
+   "name": "EUTELSAT KONNECT VHTS",
+   "operator": null,
+   "position": 2.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:43:24.540096"
+  },
+  {
+   "id": "norad-36831",
+   "name": "RASCOM-QAF 1R",
+   "operator": null,
+   "position": 2.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:01:06.585312"
+  },
+  {
+   "id": "norad-39773",
+   "name": "EUTELSAT 3B",
+   "operator": null,
+   "position": 3.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:43:32.030112"
+  },
+  {
+   "id": "norad-32299",
+   "name": "ASTRA 4A",
+   "operator": null,
+   "position": 4.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:01:09.217056"
+  },
+  {
+   "id": "norad-38652",
+   "name": "SES-5",
+   "operator": null,
+   "position": 5.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:01:09.217056"
+  },
+  {
+   "id": "norad-44334",
+   "name": "EUTELSAT 7C",
+   "operator": null,
+   "position": 7.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:02:07.253088"
+  },
+  {
+   "id": "norad-45027",
+   "name": "EUTELSAT KONNECT",
+   "operator": null,
+   "position": 7.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:44:46.910400"
+  },
+  {
+   "id": "norad-37258",
+   "name": "EUTELSAT KA-SAT 9A",
+   "operator": null,
+   "position": 8.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:03:41.785056"
+  },
+  {
+   "id": "norad-41310",
+   "name": "EUTELSAT 9B",
+   "operator": null,
+   "position": 9.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:03:41.785056"
+  },
+  {
+   "id": "norad-40732",
+   "name": "METEOSAT-11 (MSG-4)",
+   "operator": null,
+   "position": 9.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:12:18.453312"
+  },
+  {
+   "id": "norad-54259",
+   "name": "EUTELSAT 10B",
+   "operator": null,
+   "position": 10.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:45:31.838400"
+  },
+  {
+   "id": "norad-42749",
+   "name": "ECHOSTAR 21",
+   "operator": null,
+   "position": 10.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:37:18.414048"
+  },
+  {
+   "id": "norad-53100",
+   "name": "TIANLIAN 2-03",
+   "operator": null,
+   "position": 10.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:12:54.146016"
+  },
+  {
+   "id": "norad-44801",
+   "name": "INMARSAT GX5",
+   "operator": null,
+   "position": 11.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:12:54.146016"
+  },
+  {
+   "id": "norad-44457",
+   "name": "COSMOS 2539",
+   "operator": null,
+   "position": 12.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:55:21.635616"
+  },
+  {
+   "id": "norad-54048",
+   "name": "EUTELSAT HOTBIRD 13F",
+   "operator": null,
+   "position": 13.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:18:32.654016"
+  },
+  {
+   "id": "norad-54225",
+   "name": "EUTELSAT HOTBIRD 13G",
+   "operator": null,
+   "position": 13.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:18:32.654016"
+  },
+  {
+   "id": "norad-36582",
+   "name": "COMSATBW-2",
+   "operator": null,
+   "position": 13.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:18:32.654016"
+  },
+  {
+   "id": "norad-39163",
+   "name": "EUTELSAT 7B",
+   "operator": null,
+   "position": 16.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:06:34.095168"
+  },
+  {
+   "id": "norad-49011",
+   "name": "TIANLIAN 1-05",
+   "operator": null,
+   "position": 16.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T03:23:49.608096"
+  },
+  {
+   "id": "norad-44479",
+   "name": "AMOS-17",
+   "operator": null,
+   "position": 17.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:06:34.095168"
+  },
+  {
+   "id": "norad-62804",
+   "name": "TJS-14",
+   "operator": null,
+   "position": 18.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:37:38.659008"
+  },
+  {
+   "id": "norad-29055",
+   "name": "ASTRA 1KR",
+   "operator": null,
+   "position": 19.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:06:34.095168"
+  },
+  {
+   "id": "norad-37775",
+   "name": "ASTRA 1N",
+   "operator": null,
+   "position": 19.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:06:34.095168"
+  },
+  {
+   "id": "norad-60086",
+   "name": "ASTRA 1P (SES-24)",
+   "operator": null,
+   "position": 19.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:15:54.493344"
+  },
+  {
+   "id": "norad-33436",
+   "name": "ASTRA 1M",
+   "operator": null,
+   "position": 19.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:06:29.782080"
+  },
+  {
+   "id": "norad-37810",
+   "name": "ARABSAT-5C",
+   "operator": null,
+   "position": 20.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:48:24.062112"
+  },
+  {
+   "id": "norad-27168",
+   "name": "USA 164 (MILSTAR-2 3)",
+   "operator": null,
+   "position": 20.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:08:30.911136"
+  },
+  {
+   "id": "norad-63662",
+   "name": "TIANLIAN 2-05",
+   "operator": null,
+   "position": 20.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T00:02:52.628928"
+  },
+  {
+   "id": "norad-38992",
+   "name": "EUTELSAT 21B",
+   "operator": null,
+   "position": 21.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:11:45.192768"
+  },
+  {
+   "id": "norad-54033",
+   "name": "ANGOSAT 2",
+   "operator": null,
+   "position": 23.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:58:43.813344"
+  },
+  {
+   "id": "norad-36581",
+   "name": "ASTRA 3B",
+   "operator": null,
+   "position": 23.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:11:45.192768"
+  },
+  {
+   "id": "norad-39617",
+   "name": "ASTRA 5B",
+   "operator": null,
+   "position": 23.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:29:07.861920"
+  },
+  {
+   "id": "norad-55263",
+   "name": "USA 342",
+   "operator": null,
+   "position": 23.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-21T20:38:34.698048"
+  },
+  {
+   "id": "norad-27875",
+   "name": "USA 170",
+   "operator": null,
+   "position": 24.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:04:40.465920"
+  },
+  {
+   "id": "norad-39215",
+   "name": "ALPHASAT",
+   "operator": null,
+   "position": 24.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T07:35:11.123808"
+  },
+  {
+   "id": "norad-32294",
+   "name": "SKYNET 5B",
+   "operator": null,
+   "position": 24.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:35:30.213888"
+  },
+  {
+   "id": "norad-39233",
+   "name": "ES'HAIL 1",
+   "operator": null,
+   "position": 25.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:29:07.861920"
+  },
+  {
+   "id": "norad-43700",
+   "name": "ES'HAIL 2",
+   "operator": null,
+   "position": 25.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:29:07.861920"
+  },
+  {
+   "id": "norad-41029",
+   "name": "BADR-7 (ARABSAT-6B)",
+   "operator": null,
+   "position": 25.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:29:07.861920"
+  },
+  {
+   "id": "norad-56757",
+   "name": "ARABSAT-7B (BADR-8)",
+   "operator": null,
+   "position": 26.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:43:08.916384"
+  },
+  {
+   "id": "norad-44910",
+   "name": "SHIJIAN-20 (SJ-20)",
+   "operator": null,
+   "position": 27.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:05:59.066016"
+  },
+  {
+   "id": "norad-38778",
+   "name": "ASTRA 2F",
+   "operator": null,
+   "position": 28.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:50:46.336128"
+  },
+  {
+   "id": "norad-40364",
+   "name": "ASTRA 2G",
+   "operator": null,
+   "position": 28.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:50:38.846976"
+  },
+  {
+   "id": "norad-39285",
+   "name": "ASTRA 2E",
+   "operator": null,
+   "position": 28.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T10:23:35.246112"
+  },
+  {
+   "id": "norad-62852",
+   "name": "SPAINSAT NG I",
+   "operator": null,
+   "position": 29.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:50:53.824416"
+  },
+  {
+   "id": "norad-22787",
+   "name": "UFO 2 (USA 95)",
+   "operator": null,
+   "position": 29.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:38:17.698272"
+  },
+  {
+   "id": "norad-36868",
+   "name": "AEHF-1 (USA 214)",
+   "operator": null,
+   "position": 29.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:09:06.147072"
+  },
+  {
+   "id": "norad-36592",
+   "name": "BADR-5",
+   "operator": null,
+   "position": 30.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:51:23.774976"
+  },
+  {
+   "id": "norad-36745",
+   "name": "ARABSAT-5A",
+   "operator": null,
+   "position": 30.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:51:23.774976"
+  },
+  {
+   "id": "norad-44186",
+   "name": "ARABSAT-6A",
+   "operator": null,
+   "position": 30.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:51:23.774976"
+  },
+  {
+   "id": "norad-47306",
+   "name": "TURKSAT 5A",
+   "operator": null,
+   "position": 30.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:51:31.264128"
+  },
+  {
+   "id": "norad-38741",
+   "name": "HYLAS 2",
+   "operator": null,
+   "position": 31.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:39:49.240800"
+  },
+  {
+   "id": "norad-41384",
+   "name": "IRNSS-1F",
+   "operator": null,
+   "position": 32.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:09:06.147072"
+  },
+  {
+   "id": "norad-29270",
+   "name": "EUTELSAT 33F",
+   "operator": null,
+   "position": 33.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:39:48.624768"
+  },
+  {
+   "id": "norad-59069",
+   "name": "HULIANWAN GAOGUI-01 (HG-01)",
+   "operator": null,
+   "position": 33.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:52:16.192128"
+  },
+  {
+   "id": "norad-67757",
+   "name": "JAM-E JAM 1",
+   "operator": null,
+   "position": 33.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T02:41:51.201888"
+  },
+  {
+   "id": "norad-29526",
+   "name": "BADR-4",
+   "operator": null,
+   "position": 34.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:52:49.596960"
+  },
+  {
+   "id": "norad-39375",
+   "name": "RADUGA-1M 3",
+   "operator": null,
+   "position": 34.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:09:06.147072"
+  },
+  {
+   "id": "norad-44800",
+   "name": "TIBA-1",
+   "operator": null,
+   "position": 35.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:15:26.413056"
+  },
+  {
+   "id": "norad-59346",
+   "name": "EUTELSAT 36D",
+   "operator": null,
+   "position": 35.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:15:26.413056"
+  },
+  {
+   "id": "norad-41191",
+   "name": "EXPRESS-AMU1",
+   "operator": null,
+   "position": 36.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:00:21.301344"
+  },
+  {
+   "id": "norad-39509",
+   "name": "ATHENA-FIDUS",
+   "operator": null,
+   "position": 37.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:07:37.879968"
+  },
+  {
+   "id": "norad-59915",
+   "name": "PAKSAT-MM1",
+   "operator": null,
+   "position": 38.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:07:37.879968"
+  },
+  {
+   "id": "norad-42814",
+   "name": "HELLAS-SAT 3",
+   "operator": null,
+   "position": 39.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:03:20.871360"
+  },
+  {
+   "id": "norad-44034",
+   "name": "HELLAS-SAT 4 & SGS-1",
+   "operator": null,
+   "position": 39.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:28:31.219392"
+  },
+  {
+   "id": "norad-40505",
+   "name": "EXPRESS-AM7",
+   "operator": null,
+   "position": 40.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:10:31.461888"
+  },
+  {
+   "id": "norad-33056",
+   "name": "TURKSAT 3A",
+   "operator": null,
+   "position": 41.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:34:04.339200"
+  },
+  {
+   "id": "norad-39522",
+   "name": "TURKSAT 4A",
+   "operator": null,
+   "position": 41.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:34:04.339200"
+  },
+  {
+   "id": "norad-60233",
+   "name": "TURKSAT 6A",
+   "operator": null,
+   "position": 41.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:34:04.339200"
+  },
+  {
+   "id": "norad-50212",
+   "name": "TURKSAT 5B",
+   "operator": null,
+   "position": 42.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:47:59.118720"
+  },
+  {
+   "id": "norad-38014",
+   "name": "NIGCOMSAT 1R",
+   "operator": null,
+   "position": 42.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:34:04.339200"
+  },
+  {
+   "id": "norad-27825",
+   "name": "THURAYA-2",
+   "operator": null,
+   "position": 44.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:36.172800"
+  },
+  {
+   "id": "norad-62483",
+   "name": "THURAYA-4",
+   "operator": null,
+   "position": 44.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:35.542080"
+  },
+  {
+   "id": "norad-42907",
+   "name": "COSMOS 2520",
+   "operator": null,
+   "position": 45.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:55:30.880704"
+  },
+  {
+   "id": "norad-43632",
+   "name": "AZERSPACE 2 (IS-38)",
+   "operator": null,
+   "position": 45.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:36.172800"
+  },
+  {
+   "id": "norad-49333",
+   "name": "SYRACUSE 4A",
+   "operator": null,
+   "position": 45.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:36.172800"
+  },
+  {
+   "id": "norad-28912",
+   "name": "METEOSAT-9 (MSG-2)",
+   "operator": null,
+   "position": 45.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:10:55.272000"
+  },
+  {
+   "id": "norad-39079",
+   "name": "AZERSPACE 1",
+   "operator": null,
+   "position": 46.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:36.172800"
+  },
+  {
+   "id": "norad-38245",
+   "name": "YAHSAT 1B",
+   "operator": null,
+   "position": 47.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:11:14.401824"
+  },
+  {
+   "id": "norad-49056",
+   "name": "EUTELSAT QUANTUM",
+   "operator": null,
+   "position": 47.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:05:50.631072"
+  },
+  {
+   "id": "norad-44035",
+   "name": "GSAT-31",
+   "operator": null,
+   "position": 47.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:28:21.853056"
+  },
+  {
+   "id": "norad-42747",
+   "name": "GSAT-19",
+   "operator": null,
+   "position": 47.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:13:36.376896"
+  },
+  {
+   "id": "norad-44307",
+   "name": "YAMAL 601",
+   "operator": null,
+   "position": 49.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:39:13.447584"
+  },
+  {
+   "id": "norad-40984",
+   "name": "TURKSAT 4B",
+   "operator": null,
+   "position": 49.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:28:21.853056"
+  },
+  {
+   "id": "norad-36101",
+   "name": "EUTELSAT 36B",
+   "operator": null,
+   "position": 50.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:13:35.429088"
+  },
+  {
+   "id": "norad-41238",
+   "name": "BELINTERSAT-1",
+   "operator": null,
+   "position": 51.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:13:36.376896"
+  },
+  {
+   "id": "norad-37481",
+   "name": "SBIRS GEO-1 (USA 230)",
+   "operator": null,
+   "position": 51.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:54:38.870208"
+  },
+  {
+   "id": "norad-40617",
+   "name": "TURKMENALEM52E/MONACOSAT",
+   "operator": null,
+   "position": 52.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T10:24:22.849056"
+  },
+  {
+   "id": "norad-37393",
+   "name": "YAHSAT 1A",
+   "operator": null,
+   "position": 52.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:13:36.062400"
+  },
+  {
+   "id": "norad-39034",
+   "name": "SKYNET 5D",
+   "operator": null,
+   "position": 52.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:13:36.376896"
+  },
+  {
+   "id": "norad-40277",
+   "name": "EUTELSAT 53A",
+   "operator": null,
+   "position": 53.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:07:20.488800"
+  },
+  {
+   "id": "norad-39022",
+   "name": "YAMAL 402",
+   "operator": null,
+   "position": 54.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:40:58.280160"
+  },
+  {
+   "id": "norad-43698",
+   "name": "GSAT-29",
+   "operator": null,
+   "position": 55.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:02:09.261888"
+  },
+  {
+   "id": "norad-37605",
+   "name": "GSAT-8",
+   "operator": null,
+   "position": 55.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:02:09.261888"
+  },
+  {
+   "id": "norad-40332",
+   "name": "GSAT-16",
+   "operator": null,
+   "position": 55.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:02:09.261888"
+  },
+  {
+   "id": "norad-39613",
+   "name": "EXPRESS-AT2",
+   "operator": null,
+   "position": 56.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:02:08.314080"
+  },
+  {
+   "id": "norad-42698",
+   "name": "INMARSAT 5-F4",
+   "operator": null,
+   "position": 56.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:02:09.261888"
+  },
+  {
+   "id": "norad-36032",
+   "name": "NSS-12",
+   "operator": null,
+   "position": 57.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:02:09.261888"
+  },
+  {
+   "id": "norad-34713",
+   "name": "WGS F2 (USA 204)",
+   "operator": null,
+   "position": 57.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T00:24:38.555424"
+  },
+  {
+   "id": "norad-39728",
+   "name": "KAZSAT-3",
+   "operator": null,
+   "position": 58.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:45:31.059360"
+  },
+  {
+   "id": "norad-58698",
+   "name": "OVZON-3",
+   "operator": null,
+   "position": 59.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:49:06.151008"
+  },
+  {
+   "id": "norad-44071",
+   "name": "WGS 10 (USA 291)",
+   "operator": null,
+   "position": 60.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:49:06.163104"
+  },
+  {
+   "id": "norad-28184",
+   "name": "ABS-4 (MOBISAT-1)",
+   "operator": null,
+   "position": 60.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T09:51:23.336064"
+  },
+  {
+   "id": "norad-35491",
+   "name": "EWS-G3 (GOES 14)",
+   "operator": null,
+   "position": 61.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T04:49:07.082688"
+  },
+  {
+   "id": "norad-44476",
+   "name": "INTELSAT 39 (IS-39)",
+   "operator": null,
+   "position": 61.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:09:50.250240"
+  },
+  {
+   "id": "norad-66142",
+   "name": "TJS-20",
+   "operator": null,
+   "position": 62.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:09:49.048128"
+  },
+  {
+   "id": "norad-39476",
+   "name": "INMARSAT 5-F1",
+   "operator": null,
+   "position": 62.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:48:48.901248"
+  },
+  {
+   "id": "norad-43864",
+   "name": "GSAT-7A",
+   "operator": null,
+   "position": 62.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:26:22.570944"
+  },
+  {
+   "id": "norad-35943",
+   "name": "COMSATBW-1",
+   "operator": null,
+   "position": 63.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:26:22.570944"
+  },
+  {
+   "id": "norad-36411",
+   "name": "EWS-G2 (GOES 15)",
+   "operator": null,
+   "position": 63.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:26:48.319008"
+  },
+  {
+   "id": "norad-32404",
+   "name": "THURAYA-3",
+   "operator": null,
+   "position": 63.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:45:31.059360"
+  },
+  {
+   "id": "norad-27513",
+   "name": "INTELSAT 906 (IS-906)",
+   "operator": null,
+   "position": 64.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:40:52.720032"
+  },
+  {
+   "id": "norad-39237",
+   "name": "AMOS-4",
+   "operator": null,
+   "position": 65.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:26:47.687424"
+  },
+  {
+   "id": "norad-37238",
+   "name": "INTELSAT 17 (IS-17)",
+   "operator": null,
+   "position": 66.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:26:47.054112"
+  },
+  {
+   "id": "norad-66990",
+   "name": "TJS-22",
+   "operator": null,
+   "position": 66.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:26:48.319008"
+  },
+  {
+   "id": "norad-41911",
+   "name": "TJS-2",
+   "operator": null,
+   "position": 66.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:17:34.756800"
+  },
+  {
+   "id": "norad-62028",
+   "name": "GSAT-N2 (GSAT-20)",
+   "operator": null,
+   "position": 68.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:14:18.550176"
+  },
+  {
+   "id": "norad-38740",
+   "name": "INTELSAT 20 (IS-20)",
+   "operator": null,
+   "position": 68.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:50:35.938176"
+  },
+  {
+   "id": "norad-41747",
+   "name": "INTELSAT 36 (IS-36)",
+   "operator": null,
+   "position": 68.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:50:35.938176"
+  },
+  {
+   "id": "norad-43867",
+   "name": "COSMOS 2533",
+   "operator": null,
+   "position": 70.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:52:17.372352"
+  },
+  {
+   "id": "norad-39020",
+   "name": "EUTELSAT 70B",
+   "operator": null,
+   "position": 70.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:50:24.294048"
+  },
+  {
+   "id": "norad-38098",
+   "name": "INTELSAT 22 (IS-22)",
+   "operator": null,
+   "position": 72.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:50:24.294048"
+  },
+  {
+   "id": "norad-67302",
+   "name": "SHIJIAN-29A (SJ-29A)",
+   "operator": null,
+   "position": 73.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T08:08:53.109312"
+  },
+  {
+   "id": "norad-67403",
+   "name": "SHIJIAN-29B (SJ-29B)",
+   "operator": null,
+   "position": 73.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T06:10:34.519008"
+  },
+  {
+   "id": "norad-41752",
+   "name": "INSAT-3DR",
+   "operator": null,
+   "position": 73.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:22:48.049248"
+  },
+  {
+   "id": "norad-39498",
+   "name": "GSAT-14",
+   "operator": null,
+   "position": 73.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:22:48.049248"
+  },
+  {
+   "id": "norad-39234",
+   "name": "GSAT-7",
+   "operator": null,
+   "position": 73.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:07:59.931840"
+  },
+  {
+   "id": "norad-66311",
+   "name": "CMS-03 (GSAT-7R)",
+   "operator": null,
+   "position": 74.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:22:48.049248"
+  },
+  {
+   "id": "norad-43824",
+   "name": "GSAT-11",
+   "operator": null,
+   "position": 74.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:22:48.049248"
+  },
+  {
+   "id": "norad-41793",
+   "name": "GSAT-18",
+   "operator": null,
+   "position": 74.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:22:46.785216"
+  },
+  {
+   "id": "norad-41588",
+   "name": "ABS-2A (MONGOLSAT-1)",
+   "operator": null,
+   "position": 74.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T00:34:07.171104"
+  },
+  {
+   "id": "norad-39508",
+   "name": "ABS-2",
+   "operator": null,
+   "position": 74.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:07:59.301120"
+  },
+  {
+   "id": "norad-40887",
+   "name": "MUOS-4",
+   "operator": null,
+   "position": 75.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:52:52.591008"
+  },
+  {
+   "id": "norad-28117",
+   "name": "UFO 11 (USA 174)",
+   "operator": null,
+   "position": 75.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:51:07.793856"
+  },
+  {
+   "id": "norad-67756",
+   "name": "ELEKTRO-L 5",
+   "operator": null,
+   "position": 76.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T14:49:27.099264"
+  },
+  {
+   "id": "norad-38107",
+   "name": "APSTAR-7",
+   "operator": null,
+   "position": 76.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T08:48:47.006208"
+  },
+  {
+   "id": "norad-44076",
+   "name": "TIANLIAN 2-01",
+   "operator": null,
+   "position": 76.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T03:41:02.959008"
+  },
+  {
+   "id": "norad-32794",
+   "name": "AMOS-3",
+   "operator": null,
+   "position": 78.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:55:44.272992"
+  },
+  {
+   "id": "norad-39500",
+   "name": "THAICOM 6",
+   "operator": null,
+   "position": 78.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:55:44.272992"
+  },
+  {
+   "id": "norad-41552",
+   "name": "THAICOM 8",
+   "operator": null,
+   "position": 78.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:55:44.272992"
+  },
+  {
+   "id": "norad-43491",
+   "name": "FENGYUN 2H",
+   "operator": null,
+   "position": 79.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:47:50.123040"
+  },
+  {
+   "id": "norad-56372",
+   "name": "GS-1",
+   "operator": null,
+   "position": 79.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:22:42.780000"
+  },
+  {
+   "id": "norad-63361",
+   "name": "TIANLIAN 2-04",
+   "operator": null,
+   "position": 79.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:48:05.098752"
+  },
+  {
+   "id": "norad-36590",
+   "name": "BEIDOU-2 G3",
+   "operator": null,
+   "position": 79.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:47:57.611328"
+  },
+  {
+   "id": "norad-45344",
+   "name": "BEIDOU-3 G2",
+   "operator": null,
+   "position": 80.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:48:05.098752"
+  },
+  {
+   "id": "norad-45986",
+   "name": "EXPRESS 80",
+   "operator": null,
+   "position": 80.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T00:16:41.250720"
+  },
+  {
+   "id": "norad-41121",
+   "name": "COSMOS 2513",
+   "operator": null,
+   "position": 80.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:40:22.583424"
+  },
+  {
+   "id": "norad-53813",
+   "name": "ZHONGXING-1E",
+   "operator": null,
+   "position": 81.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:48:27.562752"
+  },
+  {
+   "id": "norad-47321",
+   "name": "TIANTONG-1 3",
+   "operator": null,
+   "position": 81.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:48:35.051040"
+  },
+  {
+   "id": "norad-58990",
+   "name": "INSAT-3DS",
+   "operator": null,
+   "position": 82.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:11:50.993088"
+  },
+  {
+   "id": "norad-40880",
+   "name": "GSAT-6",
+   "operator": null,
+   "position": 82.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:27.024768"
+  },
+  {
+   "id": "norad-47256",
+   "name": "CMS-01",
+   "operator": null,
+   "position": 82.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:07:02.137728"
+  },
+  {
+   "id": "norad-52903",
+   "name": "CMS-02 (GSAT-24)",
+   "operator": null,
+   "position": 83.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:57:29.334240"
+  },
+  {
+   "id": "norad-38779",
+   "name": "GSAT-10",
+   "operator": null,
+   "position": 83.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:07:02.137728"
+  },
+  {
+   "id": "norad-45026",
+   "name": "GSAT-30",
+   "operator": null,
+   "position": 83.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:44:40.846272"
+  },
+  {
+   "id": "norad-40269",
+   "name": "IRNSS-1C",
+   "operator": null,
+   "position": 83.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:30.502368"
+  },
+  {
+   "id": "norad-44637",
+   "name": "TJS-4",
+   "operator": null,
+   "position": 83.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:49:05.003328"
+  },
+  {
+   "id": "norad-50319",
+   "name": "INMARSAT 6-F1",
+   "operator": null,
+   "position": 83.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:07:01.823232"
+  },
+  {
+   "id": "norad-36106",
+   "name": "INTELSAT 15 (IS-15)",
+   "operator": null,
+   "position": 85.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:09:44.662752"
+  },
+  {
+   "id": "norad-36397",
+   "name": "INTELSAT 16 (IS-16)",
+   "operator": null,
+   "position": 85.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:37:23.990016"
+  },
+  {
+   "id": "norad-39612",
+   "name": "EXPRESS-AT1",
+   "operator": null,
+   "position": 85.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:49:42.443904"
+  },
+  {
+   "id": "norad-26388",
+   "name": "TDRS 8",
+   "operator": null,
+   "position": 85.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:58:45.275808"
+  },
+  {
+   "id": "norad-37749",
+   "name": "KAZSAT-2",
+   "operator": null,
+   "position": 86.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:07:22.244736"
+  },
+  {
+   "id": "norad-39017",
+   "name": "ZHONGXING-12",
+   "operator": null,
+   "position": 87.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:58:21.988992"
+  },
+  {
+   "id": "norad-37606",
+   "name": "ST-2",
+   "operator": null,
+   "position": 88.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:05:28.534848"
+  },
+  {
+   "id": "norad-38070",
+   "name": "WGS F4 (USA 233)",
+   "operator": null,
+   "position": 88.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:00:48.519936"
+  },
+  {
+   "id": "norad-63157",
+   "name": "TJS-15",
+   "operator": null,
+   "position": 88.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:58:21.988992"
+  },
+  {
+   "id": "norad-23613",
+   "name": "TDRS 7",
+   "operator": null,
+   "position": 88.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:34:22.250784"
+  },
+  {
+   "id": "norad-40345",
+   "name": "YAMAL 401",
+   "operator": null,
+   "position": 89.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T02:02:04.937568"
+  },
+  {
+   "id": "norad-62876",
+   "name": "QZS-6 (MICHIBIKI-6)",
+   "operator": null,
+   "position": 90.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:48:32.215104"
+  },
+  {
+   "id": "norad-47202",
+   "name": "LUCAS (JDRS-1)",
+   "operator": null,
+   "position": 90.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:48:32.215104"
+  },
+  {
+   "id": "norad-52904",
+   "name": "MEASAT 3D",
+   "operator": null,
+   "position": 91.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:48:32.215104"
+  },
+  {
+   "id": "norad-40147",
+   "name": "MEASAT-3B",
+   "operator": null,
+   "position": 91.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:48:32.215104"
+  },
+  {
+   "id": "norad-64470",
+   "name": "CHINASAT 9C",
+   "operator": null,
+   "position": 92.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:48:32.215104"
+  },
+  {
+   "id": "norad-58204",
+   "name": "TJS-10",
+   "operator": null,
+   "position": 92.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T17:42:23.034240"
+  },
+  {
+   "id": "norad-44481",
+   "name": "AEHF-5 (USA 292)",
+   "operator": null,
+   "position": 92.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:34:00.242112"
+  },
+  {
+   "id": "norad-42815",
+   "name": "GSAT-17",
+   "operator": null,
+   "position": 93.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:33:54.853920"
+  },
+  {
+   "id": "norad-41028",
+   "name": "GSAT-15",
+   "operator": null,
+   "position": 93.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:48:32.215104"
+  },
+  {
+   "id": "norad-48618",
+   "name": "SBIRS GEO-5 (USA 315)",
+   "operator": null,
+   "position": 93.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:59.611392"
+  },
+  {
+   "id": "norad-39727",
+   "name": "LUCH-5V",
+   "operator": null,
+   "position": 94.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T20:56:51.681696"
+  },
+  {
+   "id": "norad-43488",
+   "name": "SES-12",
+   "operator": null,
+   "position": 95.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:18:28.268352"
+  },
+  {
+   "id": "norad-39460",
+   "name": "SES-8",
+   "operator": null,
+   "position": 95.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:59:11.436000"
+  },
+  {
+   "id": "norad-30794",
+   "name": "SKYNET 5A",
+   "operator": null,
+   "position": 95.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:59:11.436000"
+  },
+  {
+   "id": "norad-45985",
+   "name": "EXPRESS 103",
+   "operator": null,
+   "position": 96.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:52:49.644192"
+  },
+  {
+   "id": "norad-42695",
+   "name": "GSAT-9",
+   "operator": null,
+   "position": 97.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:59:11.436000"
+  },
+  {
+   "id": "norad-39157",
+   "name": "ZHONGXING-11",
+   "operator": null,
+   "position": 97.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:53:12.109056"
+  },
+  {
+   "id": "norad-49062",
+   "name": "ZHONGXING-2E",
+   "operator": null,
+   "position": 98.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:05:29.728032"
+  },
+  {
+   "id": "norad-69235",
+   "name": "TJS-24",
+   "operator": null,
+   "position": 98.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:53:19.597344"
+  },
+  {
+   "id": "norad-38352",
+   "name": "ZHONGXING-2A",
+   "operator": null,
+   "position": 98.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:13:34.058208"
+  },
+  {
+   "id": "norad-40367",
+   "name": "FENGYUN 2G",
+   "operator": null,
+   "position": 99.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:10:59.399040"
+  },
+  {
+   "id": "norad-35696",
+   "name": "ASIASAT 5",
+   "operator": null,
+   "position": 100.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T00:22:25.700736"
+  },
+  {
+   "id": "norad-49125",
+   "name": "CHINASAT 9B",
+   "operator": null,
+   "position": 101.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:54:12.013632"
+  },
+  {
+   "id": "norad-41725",
+   "name": "TIANTONG-1 1",
+   "operator": null,
+   "position": 101.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T14:09:34.547616"
+  },
+  {
+   "id": "norad-60179",
+   "name": "ZHONGXING-3A",
+   "operator": null,
+   "position": 101.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:10:35.296896"
+  },
+  {
+   "id": "norad-50002",
+   "name": "EXPRESS AMU-3",
+   "operator": null,
+   "position": 103.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T13:01:57.213120"
+  },
+  {
+   "id": "norad-41021",
+   "name": "ZHONGXING-2C",
+   "operator": null,
+   "position": 103.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:54:49.454208"
+  },
+  {
+   "id": "norad-48808",
+   "name": "FENGYUN 4B",
+   "operator": null,
+   "position": 104.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T00:23:40.581024"
+  },
+  {
+   "id": "norad-40107",
+   "name": "ASIASAT 8 (AMOS-7)",
+   "operator": null,
+   "position": 105.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:47:13.743168"
+  },
+  {
+   "id": "norad-26107",
+   "name": "ASIASTAR",
+   "operator": null,
+   "position": 105.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:26:14.487936"
+  },
+  {
+   "id": "norad-37933",
+   "name": "ASIASAT 7",
+   "operator": null,
+   "position": 105.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:55:19.405632"
+  },
+  {
+   "id": "norad-41194",
+   "name": "GAOFEN-4",
+   "operator": null,
+   "position": 105.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:55:26.893920"
+  },
+  {
+   "id": "norad-44978",
+   "name": "TJS-5",
+   "operator": null,
+   "position": 107.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:55:56.846208"
+  },
+  {
+   "id": "norad-43587",
+   "name": "TELKOM 4 (MERAH PUTIH)",
+   "operator": null,
+   "position": 108.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:42:24.018048"
+  },
+  {
+   "id": "norad-34941",
+   "name": "SES-7 (PROTOSTAR 2)",
+   "operator": null,
+   "position": 108.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T04:49:50.229120"
+  },
+  {
+   "id": "norad-41380",
+   "name": "SES-9",
+   "operator": null,
+   "position": 108.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:28:05.655360"
+  },
+  {
+   "id": "norad-37207",
+   "name": "BSAT-3B",
+   "operator": null,
+   "position": 109.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:42:24.018048"
+  },
+  {
+   "id": "norad-42951",
+   "name": "BSAT-4A",
+   "operator": null,
+   "position": 109.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:42:24.018048"
+  },
+  {
+   "id": "norad-46112",
+   "name": "BSAT-4B",
+   "operator": null,
+   "position": 109.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:42:24.018048"
+  },
+  {
+   "id": "norad-37776",
+   "name": "BSAT-3C (JCSAT-110R)",
+   "operator": null,
+   "position": 110.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:42:24.018048"
+  },
+  {
+   "id": "norad-41903",
+   "name": "JCSAT-110A (JCSAT-15)",
+   "operator": null,
+   "position": 110.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:28:05.655360"
+  },
+  {
+   "id": "norad-42662",
+   "name": "CHINASAT 16 (SJ-13)",
+   "operator": null,
+   "position": 110.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:56:49.263360"
+  },
+  {
+   "id": "norad-45807",
+   "name": "BEIDOU-3 G3",
+   "operator": null,
+   "position": 110.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:56:49.263360"
+  },
+  {
+   "id": "norad-63075",
+   "name": "ZHONGXING-10R",
+   "operator": null,
+   "position": 110.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:42:23.071104"
+  },
+  {
+   "id": "norad-59020",
+   "name": "TJS-11",
+   "operator": null,
+   "position": 112.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:57:26.703072"
+  },
+  {
+   "id": "norad-65588",
+   "name": "NUSANTARA LIMA (NUSANTARA 5)",
+   "operator": null,
+   "position": 112.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:29:21.195744"
+  },
+  {
+   "id": "norad-58995",
+   "name": "MERAH PUTIH 2",
+   "operator": null,
+   "position": 112.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:29:21.195744"
+  },
+  {
+   "id": "norad-42984",
+   "name": "KOREASAT 5A",
+   "operator": null,
+   "position": 113.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:29:21.195744"
+  },
+  {
+   "id": "norad-58253",
+   "name": "ZHONGXING-6E",
+   "operator": null,
+   "position": 115.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:58:11.631072"
+  },
+  {
+   "id": "norad-42691",
+   "name": "KOREASAT 7",
+   "operator": null,
+   "position": 115.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:31:28.144128"
+  },
+  {
+   "id": "norad-61910",
+   "name": "KOREASAT 6A",
+   "operator": null,
+   "position": 116.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:31:28.144128"
+  },
+  {
+   "id": "norad-45920",
+   "name": "KOREASAT 116",
+   "operator": null,
+   "position": 116.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:31:28.144128"
+  },
+  {
+   "id": "norad-66549",
+   "name": "SHIJIAN-28 (SJ-28)",
+   "operator": null,
+   "position": 116.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:31:28.144128"
+  },
+  {
+   "id": "norad-41944",
+   "name": "TELKOM 3S",
+   "operator": null,
+   "position": 118.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:49:26.832000"
+  },
+  {
+   "id": "norad-60606",
+   "name": "ZHONGXING-4A",
+   "operator": null,
+   "position": 118.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:23:00.763008"
+  },
+  {
+   "id": "norad-46610",
+   "name": "GAOFEN-13 01",
+   "operator": null,
+   "position": 118.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:58:56.559072"
+  },
+  {
+   "id": "norad-43463",
+   "name": "BANGABANDHUSAT-1",
+   "operator": null,
+   "position": 119.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:45:41.249088"
+  },
+  {
+   "id": "norad-52940",
+   "name": "WFOV (USA 332)",
+   "operator": null,
+   "position": 119.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:16:36.360768"
+  },
+  {
+   "id": "norad-56371",
+   "name": "ARCTURUS",
+   "operator": null,
+   "position": 119.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:51:29.337120"
+  },
+  {
+   "id": "norad-40141",
+   "name": "ASIASAT 6",
+   "operator": null,
+   "position": 119.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:59:26.511360"
+  },
+  {
+   "id": "norad-51280",
+   "name": "USA 324",
+   "operator": null,
+   "position": 121.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-15T09:27:18.905184"
+  },
+  {
+   "id": "norad-42942",
+   "name": "ASIASAT 9",
+   "operator": null,
+   "position": 122.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T01:50:38.821344"
+  },
+  {
+   "id": "norad-58582",
+   "name": "YAOGAN-41",
+   "operator": null,
+   "position": 123.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:00:26.415936"
+  },
+  {
+   "id": "norad-63524",
+   "name": "TJS-17",
+   "operator": null,
+   "position": 123.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T18:33:11.729088"
+  },
+  {
+   "id": "norad-38331",
+   "name": "JCSAT-13",
+   "operator": null,
+   "position": 124.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:41:19.215744"
+  },
+  {
+   "id": "norad-41882",
+   "name": "FENGYUN 4A",
+   "operator": null,
+   "position": 124.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:00:48.879936"
+  },
+  {
+   "id": "norad-20253",
+   "name": "FLTSATCOM 8 (USA 46)",
+   "operator": null,
+   "position": 124.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:01:53.499360"
+  },
+  {
+   "id": "norad-46916",
+   "name": "TIANTONG-1 2",
+   "operator": null,
+   "position": 124.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:00:56.368224"
+  },
+  {
+   "id": "norad-52255",
+   "name": "ZHONGXING-6D",
+   "operator": null,
+   "position": 124.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-20T11:41:57.650784"
+  },
+  {
+   "id": "norad-55686",
+   "name": "ZHONGXING-26",
+   "operator": null,
+   "position": 125.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T07:19:55.516224"
+  },
+  {
+   "id": "norad-42917",
+   "name": "QZS-3 (MICHIBIKI-3)",
+   "operator": null,
+   "position": 127.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:34:19.301952"
+  },
+  {
+   "id": "norad-62485",
+   "name": "SHIJIAN-25 (SJ-25)",
+   "operator": null,
+   "position": 127.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T18:06:58.284000"
+  },
+  {
+   "id": "norad-49330",
+   "name": "SHIJIAN-21 (SJ-21)",
+   "operator": null,
+   "position": 127.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:43:04.916064"
+  },
+  {
+   "id": "norad-41744",
+   "name": "USA 270",
+   "operator": null,
+   "position": 127.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-02T06:44:40.507296"
+  },
+  {
+   "id": "norad-43432",
+   "name": "COSMOS 2526",
+   "operator": null,
+   "position": 128.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T02:48:03.132288"
+  },
+  {
+   "id": "norad-64467",
+   "name": "COSMOS 2589",
+   "operator": null,
+   "position": 128.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T18:24:12.702816"
+  },
+  {
+   "id": "norad-29272",
+   "name": "JCSAT-3A",
+   "operator": null,
+   "position": 128.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:23:26.032704"
+  },
+  {
+   "id": "norad-45246",
+   "name": "GEO-KOMPSAT-2B",
+   "operator": null,
+   "position": 128.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:23:27.930048"
+  },
+  {
+   "id": "norad-43823",
+   "name": "GEO-KOMPSAT-2A",
+   "operator": null,
+   "position": 128.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:23:27.930048"
+  },
+  {
+   "id": "norad-41034",
+   "name": "LAOSAT 1",
+   "operator": null,
+   "position": 128.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T16:16:04.289088"
+  },
+  {
+   "id": "norad-56759",
+   "name": "NVS-01 (IRNSS-1J)",
+   "operator": null,
+   "position": 129.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:19:36.075360"
+  },
+  {
+   "id": "norad-39216",
+   "name": "INSAT-3D",
+   "operator": null,
+   "position": 129.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:35:36.406752"
+  },
+  {
+   "id": "norad-41469",
+   "name": "IRNSS-1G",
+   "operator": null,
+   "position": 129.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:19:36.075360"
+  },
+  {
+   "id": "norad-43920",
+   "name": "ZHONGXING-2D",
+   "operator": null,
+   "position": 130.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:02:18.736800"
+  },
+  {
+   "id": "norad-49505",
+   "name": "ZHONGXING-1D",
+   "operator": null,
+   "position": 130.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:02:26.225088"
+  },
+  {
+   "id": "norad-44067",
+   "name": "ZHONGXING-6C",
+   "operator": null,
+   "position": 130.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:19:51.051072"
+  },
+  {
+   "id": "norad-38332",
+   "name": "VINASAT-2",
+   "operator": null,
+   "position": 131.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:23:09.163104"
+  },
+  {
+   "id": "norad-32767",
+   "name": "VINASAT-1",
+   "operator": null,
+   "position": 131.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T20:23:07.582848"
+  },
+  {
+   "id": "norad-35755",
+   "name": "JCSAT-12 (JCSAT-RA)",
+   "operator": null,
+   "position": 132.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T04:54:04.934592"
+  },
+  {
+   "id": "norad-29045",
+   "name": "JCSAT-5A",
+   "operator": null,
+   "position": 132.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:24:55.673568"
+  },
+  {
+   "id": "norad-67246",
+   "name": "FENGYUN 4C",
+   "operator": null,
+   "position": 133.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-21T14:55:34.345920"
+  },
+  {
+   "id": "norad-43450",
+   "name": "APSTAR-6C",
+   "operator": null,
+   "position": 134.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T01:14:45.985632"
+  },
+  {
+   "id": "norad-55239",
+   "name": "APSTAR-6E",
+   "operator": null,
+   "position": 134.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:03:26.128800"
+  },
+  {
+   "id": "norad-26575",
+   "name": "USA 153",
+   "operator": null,
+   "position": 134.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:14:52.920384"
+  },
+  {
+   "id": "norad-43339",
+   "name": "USA 283",
+   "operator": null,
+   "position": 134.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-21T21:53:52.720800"
+  },
+  {
+   "id": "norad-45863",
+   "name": "APSTAR-6D",
+   "operator": null,
+   "position": 134.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-21T00:38:20.632416"
+  },
+  {
+   "id": "norad-37237",
+   "name": "HYLAS 1",
+   "operator": null,
+   "position": 135.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:13:59.108736"
+  },
+  {
+   "id": "norad-45245",
+   "name": "JCSAT-17",
+   "operator": null,
+   "position": 135.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:14:11.189184"
+  },
+  {
+   "id": "norad-33274",
+   "name": "SUPERBIRD-C2",
+   "operator": null,
+   "position": 136.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:21:28.396224"
+  },
+  {
+   "id": "norad-45465",
+   "name": "AEHF-6 (USA 298)",
+   "operator": null,
+   "position": 137.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:58:24.017952"
+  },
+  {
+   "id": "norad-50574",
+   "name": "TJS-9",
+   "operator": null,
+   "position": 137.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:04:26.034240"
+  },
+  {
+   "id": "norad-43611",
+   "name": "TELSTAR 18V",
+   "operator": null,
+   "position": 138.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:33:35.846784"
+  },
+  {
+   "id": "norad-53355",
+   "name": "SBIRS GEO-6 (USA 336)",
+   "operator": null,
+   "position": 139.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:13:43.380768"
+  },
+  {
+   "id": "norad-56564",
+   "name": "BEIDOU-3 G4",
+   "operator": null,
+   "position": 140.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:05:10.962240"
+  },
+  {
+   "id": "norad-39487",
+   "name": "EXPRESS-AM5",
+   "operator": null,
+   "position": 140.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:32:03.120576"
+  },
+  {
+   "id": "norad-40940",
+   "name": "SKY MUSTER 1 (NBN1A)",
+   "operator": null,
+   "position": 140.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:58:24.017952"
+  },
+  {
+   "id": "norad-36287",
+   "name": "BEIDOU-2 G1",
+   "operator": null,
+   "position": 140.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:55:40.802880"
+  },
+  {
+   "id": "norad-40267",
+   "name": "HIMAWARI-8",
+   "operator": null,
+   "position": 140.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:31:23.803104"
+  },
+  {
+   "id": "norad-41836",
+   "name": "HIMAWARI-9",
+   "operator": null,
+   "position": 140.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:31:23.803104"
+  },
+  {
+   "id": "norad-40982",
+   "name": "APSTAR-9",
+   "operator": null,
+   "position": 142.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:05:48.401952"
+  },
+  {
+   "id": "norad-28899",
+   "name": "INMARSAT 4-F2",
+   "operator": null,
+   "position": 143.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:52:25.339008"
+  },
+  {
+   "id": "norad-41729",
+   "name": "JCSAT-16",
+   "operator": null,
+   "position": 143.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:23:43.180224"
+  },
+  {
+   "id": "norad-61733",
+   "name": "DSN-3 (KIRAMEKI-3)",
+   "operator": null,
+   "position": 144.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:31:23.803104"
+  },
+  {
+   "id": "norad-41794",
+   "name": "SKY MUSTER 2 (NBN1B)",
+   "operator": null,
+   "position": 144.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:37:07.498272"
+  },
+  {
+   "id": "norad-50001",
+   "name": "EXPRESS AMU-7",
+   "operator": null,
+   "position": 145.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T05:27:38.580768"
+  },
+  {
+   "id": "norad-44048",
+   "name": "NUSANTARA SATU",
+   "operator": null,
+   "position": 146.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:37:07.498272"
+  },
+  {
+   "id": "norad-57045",
+   "name": "NUSANTARA TIGA (SATRIA)",
+   "operator": null,
+   "position": 146.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:37:07.498272"
+  },
+  {
+   "id": "norad-62374",
+   "name": "TJS-12",
+   "operator": null,
+   "position": 146.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:07:03.283104"
+  },
+  {
+   "id": "norad-27718",
+   "name": "ASIASAT 4",
+   "operator": null,
+   "position": 147.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:42:38.201184"
+  },
+  {
+   "id": "norad-55912",
+   "name": "GAOFEN-13 02",
+   "operator": null,
+   "position": 148.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:07:33.235392"
+  },
+  {
+   "id": "norad-41879",
+   "name": "WGS F8 (USA 272)",
+   "operator": null,
+   "position": 149.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:43:47.988192"
+  },
+  {
+   "id": "norad-44868",
+   "name": "JCSAT-18 (KACIFIC 1)",
+   "operator": null,
+   "position": 150.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:42:48.356352"
+  },
+  {
+   "id": "norad-41591",
+   "name": "BRISAT",
+   "operator": null,
+   "position": 150.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:42:55.842912"
+  },
+  {
+   "id": "norad-27711",
+   "name": "USA 169 (MILSTAR-2 4)",
+   "operator": null,
+   "position": 150.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:33:18.201312"
+  },
+  {
+   "id": "norad-29495",
+   "name": "OPTUS D1",
+   "operator": null,
+   "position": 152.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:55:59.221056"
+  },
+  {
+   "id": "norad-60327",
+   "name": "HULIANWAN GAOGUI-02 (HG-02)",
+   "operator": null,
+   "position": 153.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T13:34:01.437888"
+  },
+  {
+   "id": "norad-41471",
+   "name": "JCSAT-2B",
+   "operator": null,
+   "position": 153.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:42:15.381216"
+  },
+  {
+   "id": "norad-40892",
+   "name": "TJS-1",
+   "operator": null,
+   "position": 154.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:09:25.556256"
+  },
+  {
+   "id": "norad-27831",
+   "name": "OPTUS C1",
+   "operator": null,
+   "position": 155.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:45:00.141408"
+  },
+  {
+   "id": "norad-40146",
+   "name": "OPTUS 10",
+   "operator": null,
+   "position": 156.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:00:31.771008"
+  },
+  {
+   "id": "norad-35756",
+   "name": "OPTUS D3",
+   "operator": null,
+   "position": 156.2,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T07:33:41.684256"
+  },
+  {
+   "id": "norad-62006",
+   "name": "OPTUS-X (ADS-01)",
+   "operator": null,
+   "position": 156.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:45:53.532288"
+  },
+  {
+   "id": "norad-62456",
+   "name": "AGILA",
+   "operator": null,
+   "position": 157.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:56:24.671904"
+  },
+  {
+   "id": "norad-25924",
+   "name": "ABS-6",
+   "operator": null,
+   "position": 159.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:56:34.041120"
+  },
+  {
+   "id": "norad-37265",
+   "name": "KOREASAT 6",
+   "operator": null,
+   "position": 159.9,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:23:30.626880"
+  },
+  {
+   "id": "norad-35362",
+   "name": "MEASAT-3A",
+   "operator": null,
+   "position": 160.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T07:17:58.416576"
+  },
+  {
+   "id": "norad-43683",
+   "name": "BEIDOU-3 G1",
+   "operator": null,
+   "position": 160.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:10:55.412256"
+  },
+  {
+   "id": "norad-44475",
+   "name": "EDRS-C",
+   "operator": null,
+   "position": 160.4,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:45:48.069216"
+  },
+  {
+   "id": "norad-63397",
+   "name": "TJS-16",
+   "operator": null,
+   "position": 160.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T18:33:58.187232"
+  },
+  {
+   "id": "norad-63924",
+   "name": "TJS-19",
+   "operator": null,
+   "position": 160.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T18:44:01.616064"
+  },
+  {
+   "id": "norad-43271",
+   "name": "SUPERBIRD-B3",
+   "operator": null,
+   "position": 162.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:46:10.533216"
+  },
+  {
+   "id": "norad-54230",
+   "name": "ZHONGXING-19",
+   "operator": null,
+   "position": 163.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:11:47.827680"
+  },
+  {
+   "id": "norad-28089",
+   "name": "YAMAL 202",
+   "operator": null,
+   "position": 163.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:21:22.650048"
+  },
+  {
+   "id": "norad-55506",
+   "name": "ELEKTRO-L 4",
+   "operator": null,
+   "position": 165.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T08:47:17.055168"
+  },
+  {
+   "id": "norad-38356",
+   "name": "INTELSAT 19 (IS-19)",
+   "operator": null,
+   "position": 166.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:57:05.631840"
+  },
+  {
+   "id": "norad-37951",
+   "name": "LUCH-5A",
+   "operator": null,
+   "position": 166.7,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:55:14.836224"
+  },
+  {
+   "id": "norad-64062",
+   "name": "CHINASAT 3B",
+   "operator": null,
+   "position": 168.8,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-21T15:50:35.904192"
+  },
+  {
+   "id": "norad-43633",
+   "name": "HORIZONS-3E",
+   "operator": null,
+   "position": 169.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:48:17.828928"
+  },
+  {
+   "id": "norad-50005",
+   "name": "TIANLIAN 2-02",
+   "operator": null,
+   "position": 171.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:48:47.782080"
+  },
+  {
+   "id": "norad-42741",
+   "name": "EUTELSAT 172B",
+   "operator": null,
+   "position": 172.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:53:51.236160"
+  },
+  {
+   "id": "norad-23467",
+   "name": "UFO 4 (USA 108)",
+   "operator": null,
+   "position": 172.1,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:45:54.844128"
+  },
+  {
+   "id": "norad-39206",
+   "name": "MUOS-2",
+   "operator": null,
+   "position": 172.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:57:13.565376"
+  },
+  {
+   "id": "norad-28924",
+   "name": "EUTELSAT 174A",
+   "operator": null,
+   "position": 174.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T15:59:18.948192"
+  },
+  {
+   "id": "norad-40746",
+   "name": "WGS F7 (USA 263)",
+   "operator": null,
+   "position": 175.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T12:05:19.953024"
+  },
+  {
+   "id": "norad-43874",
+   "name": "TJS-3",
+   "operator": null,
+   "position": 175.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-22T16:33:39.095712"
+  },
+  {
+   "id": "norad-67226",
+   "name": "TJS-23",
+   "operator": null,
+   "position": 175.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T03:56:07.293120"
+  },
+  {
+   "id": "norad-26554",
+   "name": "NSS-11",
+   "operator": null,
+   "position": 176.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:50:10.149792"
+  },
+  {
+   "id": "norad-41869",
+   "name": "TIANLIAN 1-04",
+   "operator": null,
+   "position": 177.3,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T19:33:04.783680"
+  },
+  {
+   "id": "norad-28628",
+   "name": "INMARSAT 4-F1",
+   "operator": null,
+   "position": 178.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T14:13:19.043328"
+  },
+  {
+   "id": "norad-47613",
+   "name": "TJS-6",
+   "operator": null,
+   "position": 178.5,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T21:16:09.909120"
+  },
+  {
+   "id": "norad-40882",
+   "name": "INMARSAT 5-F3",
+   "operator": null,
+   "position": 179.6,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T11:53:23.887104"
+  },
+  {
+   "id": "norad-37834",
+   "name": "INTELSAT 18 (IS-18)",
+   "operator": null,
+   "position": 180.0,
+   "status": "UNVERIFIED",
+   "regions": [],
+   "transponders": [],
+   "epoch": "2026-11-23T17:51:25.030080"
+  }
+ ]
+}
