@@ -1,9 +1,3 @@
 id,operator,status,regions,verified_on,source
-   "id": "norad-39522",
-   "name": "TURKSAT 4A",
-   "operator": null,
-   "position": 41.9,
-   "status": "UNVERIFIED",
-   "regions": [],
-   "transponders": [],
-   "epoch": "2026-11-23T19:34:04.339200"
+
+norad-00000,Operatör Adı,VERIFIED_ACTIVE,cont:EU|TR,2026-11-20,Operatörün resmî sitesi
