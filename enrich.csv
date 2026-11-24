@@ -1,5 +1,4 @@
 id,operator,status,regions,verified_on,source
-  {
    "id": "norad-39522",
    "name": "TURKSAT 4A",
    "operator": null,
@@ -8,4 +7,3 @@ id,operator,status,regions,verified_on,source
    "regions": [],
    "transponders": [],
    "epoch": "2026-11-23T19:34:04.339200"
-  },
